@@ -1,0 +1,17 @@
+site_name: Wizor • SGSI
+theme:
+  name: material
+nav:
+  - Inicio: index.md
+  - SGSI:
+    - Alcance: sgsi/alcance.md
+    - Roles: sgsi/roles.md
+    - Metodología: sgsi/metodologia.md
+  - Anexos:
+    - Anexo A: anexos/anexo-a-politica.md
+    - Anexo B: anexos/anexo-b-gestion-riesgos.md
+    - Anexo C: anexos/anexo-c-mapeo-iso.md
+    - Anexo D: anexos/anexo-d-resp-compartida.md
+    - Anexo E: anexos/anexo-e-gestion-riesgos.md
+  - Cambios: changelog/index.md
+  - Evidencias: evidencias/como-solicitar-evidencias.md

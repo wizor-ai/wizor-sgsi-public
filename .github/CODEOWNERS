@@ -1,0 +1,8 @@
+# Revisión obligatoria solo en partes críticas
+/anexos/ @xavi-wizor @espesaavedra @PabloCrucittaWizor
+/CHANGELOG.md @xavi-wizor
+/Informe_Compliance_ISO27001.md @xavi-wizor
+
+# Configuración y workflows de publicación
+/.github/workflows/pages.yml @xavi-wizor
+/mkdocs.yml @xavi-wizor
