@@ -8,10 +8,10 @@ nav:
     - Roles: sgsi/roles.md
     - Metodología: sgsi/metodologia.md
   - Anexos:
-    - Anexo A: anexos/anexo-a-politica.md
-    - Anexo B: anexos/anexo-b-gestion-riesgos.md
-    - Anexo C: anexos/anexo-c-mapeo-iso.md
-    - Anexo D: anexos/anexo-d-resp-compartida.md
-    - Anexo E: anexos/anexo-e-gestion-riesgos.md
+    - Anexo A: anexos/anexo_a_politica.md
+    - Anexo B: anexos/anexo_b_gestion_riesgos.md
+    - Anexo C: anexos/anexo_c_integracion_solucion.md
+    - Anexo D: anexos/anexo_d_responsabilidad_compartida.md
+    - Anexo E: anexos/anexo_e_gestion_riesgos.md
   - Cambios: changelog/index.md
-  - Evidencias: evidencias/como-solicitar-evidencias.md
+  - Evidencias: evidencias/solicitar_evidencias.md
